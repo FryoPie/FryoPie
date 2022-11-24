@@ -1,6 +1,6 @@
 - 👋 Hey! I’m @FryoPie.
 - 👀 I’m deeply interested in AI and Machine Learning.
-- 🌱 I’m currently learning basic coding an programming.
+- 🌱 I’m currently learning basic coding and programming.
 - 📫 How to reach me? I am tring to figure that out myself.
 
 <!---
